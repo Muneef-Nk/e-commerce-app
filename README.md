@@ -1,16 +1,11 @@
-# ecommerce_app
+# Basic E-Commerce App
 
-A new Flutter project.
+This is a basic e-commerce app built with Flutter that integrates with an API to fetch product data. 
+The app displays the products on the Home page and allows navigation to a Product Details page. It focuses on API integration, data handling, and UI design.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Features
+- Fetch product data from API
+- Display products in a list on the Home page
+- Navigate to Product Details page for more information
+- State management using GetX
